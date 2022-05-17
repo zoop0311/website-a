@@ -1,2 +1,2 @@
 # website-a
-command line practice repository
+practice editing and commit
